@@ -2,7 +2,6 @@
 # "Reservation System React"
 Este proyecto fue  por David Garay M. Para ejecutar la aplicación localmente, sigue estos pasos:
 
-
 ```bash
 yarn install
 yarn start
