@@ -11,6 +11,8 @@ yarn start
 
 
 # Sígueme en mis redes sociales
-Twitter: Enlace a tu perfil de Twitter 🐦
+Twitter: https://www.twitter.com Twitter 🐦
+
 Instagram: https://www.instagram.com/deivid_gm25/ Instagram 📷
+
 GitHub: https://https://github.com/Deivid11213 GitHub 💻
